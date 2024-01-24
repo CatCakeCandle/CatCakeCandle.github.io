@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>IDEA 常用插件</title>
-    <url>/2021/05/22/idea_plugins/</url>
+    <url>/2021/05/22/idea-plugins/</url>
     <content><![CDATA[<h1 id="记录常用的IDEA插件"><a href="#记录常用的IDEA插件" class="headerlink" title="记录常用的IDEA插件"></a>记录常用的IDEA插件</h1><h2 id="CodeGlance"><a href="#CodeGlance" class="headerlink" title="CodeGlance"></a>CodeGlance</h2><pre><code>代码编辑区迷你缩放.
 </code></pre>
 <h2 id="Codota"><a href="#Codota" class="headerlink" title="Codota"></a>Codota</h2><pre><code>不满足于 IDEA 自带的代码补全, 整行的代码补全, 大量的代码提示,据说是 AI ...
@@ -40,7 +40,7 @@
   </entry>
   <entry>
     <title>java dump OQL</title>
-    <url>/2019/05/28/java_dump_OQL/</url>
+    <url>/2019/05/28/java-dump-oql/</url>
     <content><![CDATA[<h2 id="java-dump-OQL"><a href="#java-dump-OQL" class="headerlink" title="java dump OQL"></a>java dump OQL</h2><ol>
 <li>查询某个对象</li>
 </ol>
@@ -83,7 +83,7 @@
   </entry>
   <entry>
     <title>项目管理-企业管理知识</title>
-    <url>/2021/05/12/pm/Business_Management/</url>
+    <url>/2021/05/12/pm/business-management/</url>
     <content><![CDATA[<h1 id="企业管理知识"><a href="#企业管理知识" class="headerlink" title="企业管理知识"></a>企业管理知识</h1><h2 id="战略管理"><a href="#战略管理" class="headerlink" title="战略管理"></a>战略管理</h2><pre><code>组织战略规划根据外部环境和自身条件及其变化来制定和实施战略, 并循环迭代的过程&lt;br/&gt;
 </code></pre>
 <h3 id="组织战略"><a href="#组织战略" class="headerlink" title="组织战略"></a>组织战略</h3><pre><code>未来发展方向
@@ -148,7 +148,7 @@
   </entry>
   <entry>
     <title>项目管理-干系人管理</title>
-    <url>/2021/05/12/pm/Program_Stakeholder_Management%20/</url>
+    <url>/2021/05/12/pm/program-stakeholder-management/</url>
     <content><![CDATA[<h1 id="干系人管理Program-Stakeholder-Management"><a href="#干系人管理Program-Stakeholder-Management" class="headerlink" title="干系人管理Program Stakeholder Management"></a>干系人管理<br/>Program Stakeholder Management</h1><pre><code>注意干系人期望管理
 </code></pre>
 <h2 id="管理过程-4个"><a href="#管理过程-4个" class="headerlink" title="管理过程(4个)"></a>管理过程(4个)</h2><h3 id="识别干系人Identify-Stakeholders"><a href="#识别干系人Identify-Stakeholders" class="headerlink" title="识别干系人Identify Stakeholders"></a>识别干系人<br/>Identify Stakeholders</h3><table>  <tr> <td bgcolor=#71cb2d><font color=#ffffff>启动过程组</font></td></tr> </table>	识别能影响项目决策, 活动货结果的个人, 群体或组织. 以及被项目决策,活动和结果缩影香的个人群体或组织, 并分析和记录他们的相关信息的过程<br/><br/>注意: 是要识别干系人利益, 参与度, 相互依赖, 影响力以及对项目成功的潜在影响等
@@ -225,7 +225,7 @@
   </entry>
   <entry>
     <title>项目管理-沟通管理</title>
-    <url>/2021/05/12/pm/Project_Communication_Management/</url>
+    <url>/2021/05/12/pm/project-communication-management/</url>
     <content><![CDATA[<h1 id="沟通管理Project-Communication-Management"><a href="#沟通管理Project-Communication-Management" class="headerlink" title="沟通管理Project Communication Management"></a>沟通管理<br/>Project Communication Management</h1><pre><code>项目经理绝大多数实践(90%) 都用玉团队成员和其他干系人的沟通
 </code></pre>
 <h2 id="管理过程3个"><a href="#管理过程3个" class="headerlink" title="管理过程3个"></a>管理过程3个</h2><h3 id="规划沟通管理Plan-Communication"><a href="#规划沟通管理Plan-Communication" class="headerlink" title="规划沟通管理Plan Communication"></a>规划沟通管理<br/>Plan Communication</h3><pre><code>根据干系人的信息和要求以及组织的可用资产情况,制定合理的项目沟通方式和计划的过程
@@ -336,7 +336,7 @@
   </entry>
   <entry>
     <title>项目管理-配置管理</title>
-    <url>/2021/05/12/pm/Project_Configuration_Management.md/</url>
+    <url>/2021/05/12/pm/project-configuration-management.md/</url>
     <content><![CDATA[<h1 id="项目配置管理Project-Configuration-Management"><a href="#项目配置管理Project-Configuration-Management" class="headerlink" title="项目配置管理Project Configuration Management"></a>项目配置管理<br/>Project Configuration Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h3 id="配置项"><a href="#配置项" class="headerlink" title="配置项"></a>配置项</h3><pre><code>定义: 硬件,软件或者二者的集合, 再配合管理过程种作为一个单独的实体对待.
 </code></pre>
 <h4 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h4><pre><code>外部交付的软件产品和数据
@@ -462,7 +462,7 @@
   </entry>
   <entry>
     <title>项目管理-成本管理</title>
-    <url>/2021/05/12/pm/Project_Cost_Management/</url>
+    <url>/2021/05/12/pm/project-cost-management/</url>
     <content><![CDATA[<h1 id="成本管理Project-Cost-Management"><a href="#成本管理Project-Cost-Management" class="headerlink" title="成本管理Project Cost Management"></a>成本管理<br/>Project Cost Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h3 id="项目成本"><a href="#项目成本" class="headerlink" title="项目成本"></a>项目成本</h3><pre><code>项目全过程所消耗的各种成本综合
 </code></pre>
 <h3 id="全生命周期成本"><a href="#全生命周期成本" class="headerlink" title="全生命周期成本"></a>全生命周期成本</h3><pre><code>权益总成本 既开发成本和维护成本的总和
@@ -602,7 +602,7 @@
   </entry>
   <entry>
     <title>项目管理-人力资源管理</title>
-    <url>/2021/05/12/pm/Project_Human_Resource_Management/</url>
+    <url>/2021/05/12/pm/project-human-resource-management/</url>
     <content><![CDATA[<h1 id="人力资源管理"><a href="#人力资源管理" class="headerlink" title="人力资源管理"></a>人力资源管理</h1><h2 id="管理过程-4个"><a href="#管理过程-4个" class="headerlink" title="管理过程(4个)"></a>管理过程(4个)</h2><h3 id="规划人力资源管理Personnel-Human-Resource-Plan"><a href="#规划人力资源管理Personnel-Human-Resource-Plan" class="headerlink" title="规划人力资源管理Personnel Human Resource Plan"></a>规划人力资源管理<br/>Personnel Human Resource Plan</h3><pre><code>定义:识别和记录项目角色,之色,所需技能,报告关系,并编制人员配置管理计划的过程&lt;br/&gt;作用: 建立项目角色于职责, 项目组织图, 以及包含人员招募和前三时间表的人员配备管理&amp;nbsp;&lt;br/&gt;
 </code></pre>
 <h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><pre><code>项目管理计划
@@ -728,7 +728,7 @@
   </entry>
   <entry>
     <title>项目管理-整体管理</title>
-    <url>/2021/05/12/pm/Project_Integration_Management/</url>
+    <url>/2021/05/12/pm/project-integration-management/</url>
     <content><![CDATA[<h1 id="整体管理"><a href="#整体管理" class="headerlink" title="整体管理"></a>整体管理<br/></h1><h2 id="管理过程6个"><a href="#管理过程6个" class="headerlink" title="管理过程6个"></a>管理过程6个</h2><h3 id="制定项目章程Develop-Project-Charter"><a href="#制定项目章程Develop-Project-Charter" class="headerlink" title="制定项目章程Develop Project Charter"></a>制定项目章程<br/>Develop Project Charter</h3><table>  <tr> <td bgcolor=#71cb2d><font color=#ffffff>启动过程组</font></td></tr> </table>
 #### 项目章程
 
@@ -900,7 +900,7 @@
   </entry>
   <entry>
     <title>项目管理-采购管理</title>
-    <url>/2021/05/12/pm/Project_Procurement_Management/</url>
+    <url>/2021/05/12/pm/project-procurement-management/</url>
     <content><![CDATA[<h1 id="采购管理Project-Procurement-Management"><a href="#采购管理Project-Procurement-Management" class="headerlink" title="采购管理Project Procurement Management"></a>采购管理<br/>Project Procurement Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h3 id="采购战略合作管理"><a href="#采购战略合作管理" class="headerlink" title="采购战略合作管理"></a>采购战略合作管理</h3><pre><code>本质是供应链管理&lt;br/&gt;供应链成员企业之间建立战略合作关系伙伴关系
 供应链中上下游企业基于信任和共同目标,共享资源,共担风险,共同火力, 非正式长期协议关系
 必须摒弃&quot;以企业为中心&quot;的传统古哪里模式,代之以现代战略合作的管理模式
@@ -1155,7 +1155,7 @@
   </entry>
   <entry>
     <title>项目管理-质量管理</title>
-    <url>/2021/05/12/pm/Project_Quality_Management/</url>
+    <url>/2021/05/12/pm/project-quality-management/</url>
     <content><![CDATA[<h1 id="质量管理Project-Quality-Management"><a href="#质量管理Project-Quality-Management" class="headerlink" title="质量管理Project Quality Management"></a>质量管理<br/>Project Quality Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h3 id="质量"><a href="#质量" class="headerlink" title="质量"></a>质量</h3><pre><code>一组固有特征满足需求的程度. 需求指明确的, 隐含的或必须履行的需求或期望
 </code></pre>
 <h3 id="质量管理"><a href="#质量管理" class="headerlink" title="质量管理"></a>质量管理</h3><pre><code>在质量方面指挥和控制组织的协调的活动,通常包括制定质量方针和质量目标以及质量策划,质量控制, 质量保证和质量改进
@@ -1293,7 +1293,7 @@ WBS RBS,OBS 图
   </entry>
   <entry>
     <title>项目管理-风险管理</title>
-    <url>/2021/05/12/pm/Project_Risk_Management/</url>
+    <url>/2021/05/12/pm/project-risk-management/</url>
     <content><![CDATA[<h1 id="风险管理Project-Risk-Management"><a href="#风险管理Project-Risk-Management" class="headerlink" title="风险管理Project Risk Management"></a>风险管理<br/>Project Risk Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><pre><code>风险是一种不确定性的事件或条件, 一旦发生,会对一个项目目标造成影响, 比如范围,进度,成本和质量
 正向的叫机会, 负面影响叫消极风险
 </code></pre>
@@ -1456,7 +1456,7 @@ WBS RBS,OBS 图
   </entry>
   <entry>
     <title></title>
-    <url>/2023/10/07/pm/Project_Schedule_Managerment/</url>
+    <url>/2023/10/07/pm/project-schedule-managerment/</url>
     <content><![CDATA[<hr>
 <p>title: 项目管理-进度管理<br>date: 2021-05-12 22:10:23<br>tags: [项目管理,十大知识领域,进度管理]<br>categories: [项目管理]</p>
 <hr>
@@ -1590,7 +1590,7 @@ WBS RBS,OBS 图
   </entry>
   <entry>
     <title>项目管理-范围管理</title>
-    <url>/2021/05/12/pm/Project_Scope_Management/</url>
+    <url>/2021/05/12/pm/project-scope-management/</url>
     <content><![CDATA[<h1 id="范围管理Project-Scope-Management"><a href="#范围管理Project-Scope-Management" class="headerlink" title="范围管理Project Scope Management"></a>范围管理<br/>Project Scope Management</h1><h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><h3 id="产品范围"><a href="#产品范围" class="headerlink" title="产品范围"></a>产品范围</h3><pre><code>表示产品或者服务的特性和功能, 如何确定信息系统的范围在软件工程中叫做需求分析
 </code></pre>
 <h3 id="项目范围"><a href="#项目范围" class="headerlink" title="项目范围"></a>项目范围</h3><pre><code>为了完成具有所规定特征呵呵功能的产品和服务必须完成的全部工作
@@ -1786,7 +1786,7 @@ WBS RBS,OBS 图
   </entry>
   <entry>
     <title>项目管理-知识点</title>
-    <url>/2021/05/12/pm/%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
+    <url>/2021/05/12/pm/zhi-shi-dian/</url>
     <content><![CDATA[<h1 id="知识点"><a href="#知识点" class="headerlink" title="知识点"></a>知识点</h1><h2 id="工具技术"><a href="#工具技术" class="headerlink" title="工具技术"></a>工具技术</h2><h3 id="专家判断法-nbsp"><a href="#专家判断法-nbsp" class="headerlink" title="专家判断法&nbsp;"></a>专家判断法&nbsp;</h3><pre><code>Deiphi 匿名( 背靠背的)专家判断法
 </code></pre>
 <h2 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h2><pre><code>基本需求
